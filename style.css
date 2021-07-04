@@ -8,9 +8,7 @@ body{
 span{
     color: gold;
 }
-h3{
-    color: gold;
-}
+ 
 h1{
     font-size: 50px;
 }
@@ -72,3 +70,8 @@ h2{
         border-image-slice: 1;
 
      }
+     .box-head{
+         color: goldenrod;     }
+    footer p{
+        text-align: center;
+    }   
