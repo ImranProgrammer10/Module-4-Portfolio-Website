@@ -5,6 +5,12 @@ body{
 .half-width{
     float: left;
 }
+span{
+    color: gold;
+}
+h3{
+    color: gold;
+}
 h1{
     font-size: 50px;
 }
@@ -55,4 +61,14 @@ h2{
         background-image: url(images/exp-bg.png);
         background-repeat: no-repeat;
     }
-     
+     #experience-web-dev{
+         border-left:  7px solid;
+         border-image: linear-gradient(blue,cyan);
+         border-image-slice: 1;
+     }
+     #full-stack-web{
+        border-left:  7px solid;
+        border-image: linear-gradient(purple,tomato);
+        border-image-slice: 1;
+
+     }
